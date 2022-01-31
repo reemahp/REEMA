@@ -1,0 +1,43 @@
+
+.circle1{background-color: red; 
+  width:50px;
+  display: inline-block;
+  justify-content:space-evenly;
+   height :50px ;
+   border-radius:50%;}
+.circle2{background-color: blue;
+  display:inline-block;
+  justify-content:space-evenly;
+  width:50px;
+   height :50px ;
+   border-radius:50%;}
+.circle3{background-color: yellow;
+  display:inline-block;
+  justify-content:space-evenly;
+   width:50px;
+    height :50px ;
+    border-radius:50%;}
+.circle4{background-color: purple;
+  display:inline-block;
+  justify-content:space-evenly;
+      width:50px;
+       height :50px ;
+       border-radius:50%;}
+.circle5{background-color: green;
+  display:inline-block;
+  justify-content:space-evenly;
+        width:50px;
+         height :50px ;
+         border-radius:50%;}
+.circle6{background-color: orangered;
+  display:inline-block;
+  justify-content:space-evenly;
+          width:50px;
+           height :50px ;
+           border-radius:50%;}  
+.wheel{
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  width:50;
+}     
